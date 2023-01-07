@@ -1,0 +1,1 @@
+import{_ as o}from"./index.a699f09f.js";import{o as e,h as t}from"./wq.a80e3404.js";import"./element-plus.60dc2cbb.js";const c={},r={class:"container"};function n(s,a){return e(),t("div",r," \u5B9E\u65F6\u5730\u56FE ")}const f=o(c,[["render",n]]);export{f as default};

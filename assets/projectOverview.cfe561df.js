@@ -1,0 +1,1 @@
+import{_ as e}from"./index.a699f09f.js";import{o,h as r}from"./wq.a80e3404.js";import"./element-plus.60dc2cbb.js";const t={},c={class:"container"};function n(s,_){return o(),r("div",c," \u9879\u76EE\u6982\u51B5 ")}const m=e(t,[["render",n]]);export{m as default};
